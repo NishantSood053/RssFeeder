@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Police News</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_home">Home</string>
+
+
+    <string-array name="nav_drawer_labels">
+        <item>News</item>
+        <item>Saved</item>
+        <item>Settings</item>
+    </string-array>
+</resources>
